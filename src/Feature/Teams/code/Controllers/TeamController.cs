@@ -11,7 +11,7 @@ namespace Hackathon.Feature.Teams.Controllers
         // GET: Team
         public ActionResult TeamListing()
         {
-            Sitecore.Context.Database.GetItem("").Fields["Team Name"].Value
+          //  Sitecore.Context.Database.GetItem("").Fields["Team Name"].Value
             return View();
         }
     }

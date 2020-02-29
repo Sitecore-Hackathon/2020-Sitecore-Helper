@@ -106,6 +106,7 @@
     <Content Include="Views\Navigation\Footer.cshtml" />
     <Content Include="Views\Form\register.cshtml" />
     <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
+    <Content Include="Views\Navigation\Detail.cshtml" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

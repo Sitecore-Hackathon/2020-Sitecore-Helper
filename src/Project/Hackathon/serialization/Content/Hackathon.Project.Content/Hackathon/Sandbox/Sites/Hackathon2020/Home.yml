@@ -31,10 +31,16 @@ Languages:
               s:ph="ph-Top" />
             <r
               uid="{329370CC-2895-46A5-9358-B14D732F4C12}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{F1D052B3-9956-49BF-9BAA-17106D1DB131}']"
               s:id="{0F5515EB-1AA4-43C1-BF01-AB5A4B5A21FB}"
               s:par=""
               s:ph="ph-Bottom" />
+            <r
+              uid="{9DBB9DE1-F0D8-4188-B74A-D91B6A467632}"
+              p:after="*[1=2]"
+              s:id="{5837E700-603F-4319-A89F-FBA17B928C12}"
+              s:par=""
+              s:ph="ph-Center" />
           </d>
         </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"

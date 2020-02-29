@@ -26,10 +26,16 @@ Languages:
               s:ph="ph-Top" />
             <r
               uid="{D24AB7DD-0F17-4C2E-B383-313414FDBFFF}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{80860EEE-002D-40C7-A9E1-3970F5B97400}']"
               s:id="{0F5515EB-1AA4-43C1-BF01-AB5A4B5A21FB}"
               s:par=""
               s:ph="ph-Bottom" />
+            <r
+              uid="{1F04F060-1187-4460-9719-414A13D04A20}"
+              p:after="*[1=2]"
+              s:id="{A61D6A97-75DF-4F2B-8552-95AEE93CA25B}"
+              s:par=""
+              s:ph="ph-Center" />
           </d>
         </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
