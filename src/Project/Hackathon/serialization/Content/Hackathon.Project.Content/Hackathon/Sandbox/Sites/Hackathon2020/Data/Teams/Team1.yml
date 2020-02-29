@@ -1,0 +1,48 @@
+﻿---
+ID: "d03ae82e-ee98-4ac9-81df-9a0fc20815d8"
+Parent: "aefba3de-4873-4452-a80a-bbe4db7690c8"
+Template: "d962a41c-0041-48be-a81a-9753fc7ccef1"
+Path: /sitecore/content/Hackathon/Sandbox/Sites/Hackathon2020/Data/Teams/Team1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "13443bf5-54a2-4ae7-af8e-64279a7bec4c"
+      Hint: Description
+      Value: Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidemvMagnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T220539Z
+    - ID: "31621df6-8393-4cb8-9d8c-16bd706a7641"
+      Hint: Member 1 Twitter Handle
+      Value: "https://twitter.com/APaliakou"
+    - ID: "36b755d7-0fc1-4849-be0d-233a7fdb6b7d"
+      Hint: Country
+      Value: India
+    - ID: "483eaf98-bcc2-4e30-80f6-4796f57396a1"
+      Hint: Member 1 Name
+      Value: Pedro L
+    - ID: "4a636cf3-b8df-4d5b-9ebe-948cdc447fd6"
+      Hint: Member 2 Name
+      Value: Jorge P
+    - ID: "534c8465-dcf4-49df-8e0f-86ddaa2b4987"
+      Hint: Team Name
+      Value: Noesis Team3
+    - ID: "7d171feb-201c-47e7-8e6d-923f56d46df4"
+      Hint: Group Photo
+      Value: |
+        <image mediaid="{8DEE3CA4-2236-4B66-ADDD-1ACECC45C0CA}" />
+    - ID: "850d6396-3a22-4fdf-ac0e-5952a0be3aa0"
+      Hint: Member 3 Twitter Handle
+      Value: "https://www.linkedin.com/in/jorge-pimenta-358a2265/"
+    - ID: "9f29307f-191f-491f-b602-1fc3f86d6061"
+      Hint: Member 1 LinkedIn Profile
+      Value: "https://www.linkedin.com/in/jorge-a%C3%A7a-891b3b66/"
+    - ID: "bf066333-cfcc-4e4a-b442-5622113ba3d9"
+      Hint: Member 3 Name
+      Value: Jorge A 
+    - ID: "e9ec48e1-f9f2-4f81-8c20-7a48116a1bad"
+      Hint: Member 2 LinkedIn Profile
+      Value: "https://www.linkedin.com/in/pedro-lu%C3%ADs-0a9321185/"

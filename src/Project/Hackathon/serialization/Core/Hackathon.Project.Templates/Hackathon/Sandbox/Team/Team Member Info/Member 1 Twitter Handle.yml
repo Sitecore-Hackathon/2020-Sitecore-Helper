@@ -1,0 +1,21 @@
+﻿---
+ID: "31621df6-8393-4cb8-9d8c-16bd706a7641"
+Parent: "4010b3de-0eaa-4398-8b1a-1b949762d31a"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Hackathon/Sandbox/Team/Team Member Info/Member 1 Twitter Handle
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T220302Z
