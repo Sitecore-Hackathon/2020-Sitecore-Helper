@@ -1,0 +1,14 @@
+﻿---
+ID: "06b15046-844e-4024-b02d-b1e39833eae7"
+Parent: "4d70ce3c-f128-4484-88af-20718c8ea6bf"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Hackathon/Banner
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T204541Z

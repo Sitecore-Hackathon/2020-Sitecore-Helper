@@ -1,0 +1,28 @@
+﻿---
+ID: "475942a0-593c-44d7-96bb-5e836e26f80e"
+Parent: "3f3e36fd-9be5-4174-9247-8c1dbd5d25eb"
+Template: "6b24a470-eb9a-46bb-bbbb-53fc92113c41"
+Path: /sitecore/content/Hackathon/Sandbox/Sites/Hackathon2020/Data/Banner Folder/Image2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T204200Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "9abc1dec-b130-4848-a0e4-9b02ed47f854"
+      Hint: Title
+      Value: Sequi ea ut et est quaerat
+    - ID: "e805e7bc-6473-4204-a70c-db1e9602c58b"
+      Hint: Image
+      Value: |
+        <image mediaid="{BC640E3B-D437-4D38-9B12-949AD0194F3E}" />
+    - ID: "eb3e207a-15ca-4c77-ad03-015706c1a5b8"
+      Hint: Description
+      Value: Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.
