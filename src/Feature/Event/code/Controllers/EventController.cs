@@ -4,11 +4,11 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Hackathon.Feature.Banner.Controllers
+namespace Hackathon.Feature.Event.Controllers
 {
-    public class BannerController : Controller
+    public class EventController : Controller
     {
-        public ActionResult Banner()
+        public ActionResult Index()
         {
             return View();
         }
