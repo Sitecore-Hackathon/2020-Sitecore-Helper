@@ -1,0 +1,26 @@
+﻿---
+ID: "1057861d-0d8c-483c-9760-f659ef9f7773"
+Parent: "039b1e6c-6646-4bf2-a892-32f8ecb387cc"
+Template: "039b1e6c-6646-4bf2-a892-32f8ecb387cc"
+Path: /sitecore/templates/Project/Hackathon/Sandbox/Partial Design Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {039B1E6C-6646-4BF2-A892-32F8ECB387CC}
+    {F42BDF1D-0DF5-4B7A-A1CC-770951BA17D5}
+    {C2A8E276-1757-4957-9DD5-8669B79FD80D}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T113829Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ajoshi

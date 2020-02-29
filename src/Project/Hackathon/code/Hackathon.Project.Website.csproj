@@ -518,6 +518,9 @@
     <Content Include="assets\vendor\icofont\fonts\icofont.woff" />
     <Content Include="assets\vendor\icofont\fonts\icofont.woff2" />
     <Content Include="assets\vendor\jquery\jquery.min.map" />
+    <Content Include="App_Config\Include\Hackathon.Project.Content.Serialization.config" />
+    <Content Include="App_Config\Include\Hackathon.Project.Serialization.config" />
+    <Content Include="App_Config\Include\Hackathon.Project.Common.config" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -538,6 +541,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

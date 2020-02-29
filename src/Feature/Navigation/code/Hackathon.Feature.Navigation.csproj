@@ -104,6 +104,7 @@
     <Content Include="Views\web.config" />
     <Content Include="Views\Navigation\Header.cshtml" />
     <Content Include="Views\Navigation\Footer.cshtml" />
+    <Content Include="Views\Form\register.cshtml" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
