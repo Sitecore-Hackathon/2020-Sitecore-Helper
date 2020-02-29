@@ -8,64 +8,44 @@ Examples of things to include are the following.
 
 ## Summary
 
-**Category:** Hackathon Category
+**Category:** Hackathon Category: Sitecore Hackathon website revamp
 
 What is the purpose of your module? What problem does it solve and how does it do that?
+
+We have developed a Hackhathon website for the community
 
 ## Pre-requisites
 
 Does your module rely on other Sitecore modules or frameworks?
 
-- List any dependencies
-- Or other modules that must be installed
-- Or services that must be enabled/configured
+
+Sitecore 9.3 and .Net framework 4.7.2
 
 ## Installation
 
 Provide detailed instructions on how to install the module, and include screenshots where necessary.
 
-1. Use the Sitecore Installation wizard to install the [package](#link-to-package)
-2. ???
-3. Profit
+This is based on SXA so SXA is a prerequisite for this website to run. In order to make the application up and running, we have leveraged Unicorn so sync is required to see the templates,renderings and items in Sitecore
 
 ## Configuration
 
 How do you configure your module once it is installed? Are there items that need to be updated with settings, or maybe config files need to have keys updated?
 
-Remember you are using Markdown, you can provide code samples too:
+NO
 
-```xml
-<?xml version="1.0"?>
-<!--
-  Purpose: Configuration settings for my hackathon module
--->
-<configuration xmlns:patch="http://www.sitecore.net/xmlconfig/">
-  <sitecore>
-    <settings>
-      <setting name="MyModule.Setting" value="Hackathon" />
-    </settings>
-  </sitecore>
-</configuration>
 ```
 
 ## Usage
 
-Provide documentation  about your module, how do the users use your module, where are things located, what do icons mean, are there any secret shortcuts etc.
 
-Please include screenshots where necessary. You can add images to the `./images` folder and then link to them from your documentation:
+This is revamped version of Sitecore Hackathom website. End users/Admin can do the following
+1. End users can signup for team
+2. Admin can create team landing and detail page
+3. Interactive component added to website to increase user experience
+4. Mail Subsciption
+etc.
 
-![Hackathon Logo](images/hackathon.png?raw=true "Hackathon Logo")
-
-You can embed images of different formats too:
-
-![Deal With It](images/deal-with-it.gif?raw=true "Deal With It")
-
-And you can embed external images too:
-
-![Random](https://placeimg.com/480/240/any "Random")
 
 ## Video
 
-Please provide a video highlighing your Hackathon module submission and provide a link to the video. Either a [direct link](https://www.youtube.com/watch?v=EpNhxW4pNKk) to the video, upload it to this documentation folder or maybe upload it to Youtube...
-
-[![Sitecore Hackathon Video Embedding Alt Text](https://img.youtube.com/vi/EpNhxW4pNKk/0.jpg)](https://www.youtube.com/watch?v=EpNhxW4pNKk)
+https://youtu.be/yl9EmYTmK0w
