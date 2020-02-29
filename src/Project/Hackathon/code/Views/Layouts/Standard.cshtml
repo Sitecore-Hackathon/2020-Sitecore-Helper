@@ -1,0 +1,41 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Analytics.Extensions
+@using Sitecore.Analytics;
+@using System.Net.Mail;
+@using System.Text;
+@using Sitecore;
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1 , maximum-scale=1, user-scalable=no, IE=edge, chrome=1" http-equiv="X-UA-Compatible">
+    <title>Sitecore Hackathon 2020 | @Sitecore.Context.Item.Name</title>
+    <link rel="shortcut icon" href="~/images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="~/images/favicon.ico" type="image/x-icon">
+    @Html.Sitecore().VisitorIdentification()
+    <link href="~/CSS/style.css" rel="stylesheet">
+    <link href="~/CSS/responsive_new.css" rel="stylesheet">
+    <link href="~/CSS/mobile.css" rel="stylesheet">
+    <link href="~/CSS/flexslider.css" rel="stylesheet">
+    <link href="~/CSS/jquery-ui.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+
+<body>
+    <div id="parentContainer">
+        @Html.Sitecore().Placeholder("ph-Top")
+        @Html.Sitecore().DynamicPlaceholder("ph-Center")
+        @Html.Sitecore().Placeholder("ph-Bottom")
+    </div>
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/jquery.flexslider.js"></script>
+    <script src="~/js/jquery-ui.js"></script>
+    <script defer src="~/js/main.js"></script>
+
+</body>
+</html>
