@@ -1,14 +1,9 @@
 ﻿---
-ID: "cf6c6ec9-a58d-4944-aab1-ecbdde297b4d"
-Parent: "d1f77c4c-d2c5-4c23-812d-fd8ee7b8308b"
-Template: "94b64abb-f303-4a0e-be8a-6f1c390ded61"
-Path: /sitecore/content/Hackathon/Sandbox/Sites/Hackathon2020/Home
+ID: "560b1ef7-bed1-471d-89fd-33fd6d53ac85"
+Parent: "cf6c6ec9-a58d-4944-aab1-ecbdde297b4d"
+Template: "26549235-410e-42d9-80b6-64f1c78bbaf5"
+Path: /sitecore/content/Hackathon/Sandbox/Sites/Hackathon2020/Home/Teams
 DB: master
-BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
-SharedFields:
-- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
-  Hint: __Originator
-  Value: "{92EB9EFB-88D4-4089-82BE-AAD92D4FA24E}"
 Languages:
 - Language: en
   Versions:
@@ -24,29 +19,35 @@ Languages:
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
             s:l="{8DA1FB26-73A2-40A2-8B83-0F169263A0C4}">
             <r
-              uid="{F1D052B3-9956-49BF-9BAA-17106D1DB131}"
+              uid="{D025A9F0-D3AA-418C-AE35-E8257D4C0065}"
               p:before="*"
               s:id="{A273AD23-944A-4FC0-9818-1A77FB8598C0}"
               s:par=""
               s:ph="ph-Top" />
             <r
-              uid="{329370CC-2895-46A5-9358-B14D732F4C12}"
-              p:after="*[1=2]"
+              uid="{D200F380-B1C1-47D2-A689-02020CE5CB35}"
+              p:after="r[@uid='{D025A9F0-D3AA-418C-AE35-E8257D4C0065}']"
               s:id="{0F5515EB-1AA4-43C1-BF01-AB5A4B5A21FB}"
               s:par=""
               s:ph="ph-Bottom" />
+            <r
+              uid="{F0338E1F-A340-4A14-9A14-7022F7C7642F}"
+              p:after="*[1=2]"
+              s:id="{76FEE66B-A60B-444F-9485-CD0BA1A60DDD}"
+              s:par=""
+              s:ph="ph-Center" />
           </d>
         </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20200229T114645Z
+      Value: 20200229T200817Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: Hackathon2020
+      Value: Teams
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\ajoshi
+        sitecore\Admin
     - ID: "f7943183-4068-41f3-8d20-7f1f172899d5"
       Hint: Title
-      Value: Hackathon2020
+      Value: Teams
