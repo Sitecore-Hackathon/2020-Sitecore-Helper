@@ -1,0 +1,21 @@
+﻿---
+ID: "2b451274-3a2f-4d6c-ade5-c5e3169c1bd5"
+Parent: "45f8e845-a072-44ca-a5a2-601f917c9178"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Hackathon/Banner/Banner Folder/Selection/Slide Selector
+DB: master
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "query:.//*[@@templatename='Banner Image']"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Multilist
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T211540Z

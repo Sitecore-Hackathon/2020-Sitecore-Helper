@@ -12,3 +12,10 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20200229T204128Z
+    - ID: "2b451274-3a2f-4d6c-ade5-c5e3169c1bd5"
+      Hint: Slide Selector
+      Type: Multilist
+      Value: |
+        {155E0415-9D02-4E5B-B4BA-1E254042A6D4}
+        {58B45E46-A45E-4B56-8196-6BF623B5B475}
+        {475942A0-593C-44D7-96BB-5E836E26F80E}
