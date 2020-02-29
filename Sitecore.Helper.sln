@@ -39,7 +39,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon.Foundation.ORM", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Website", "Website", "{22B49B4F-DBA2-474F-B5E6-A479EBBEAD5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Helper.Website", "src\Project\Hackathon\code\Sitecore.Helper.Website.csproj", "{390ADA6E-7DEE-41A7-B0E5-A58F540F6645}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon.Project.Website", "src\Project\Hackathon\code\Hackathon.Project.Website.csproj", "{390ADA6E-7DEE-41A7-B0E5-A58F540F6645}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Navigation", "Navigation", "{F8B601B5-2D0A-4950-86CD-051FE4540857}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Teams", "Teams", "{E3D31132-28BD-49AD-B35B-39EC17CC70DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon.Feature.Navigation", "src\Feature\Navigation\code\Hackathon.Feature.Navigation.csproj", "{59AE276A-E55B-442E-84AF-FEB2BFD11BAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon.Feature.Teams", "src\Feature\Teams\code\Hackathon.Feature.Teams.csproj", "{59CDE0A3-3949-4805-9C22-A0A2D123F3BB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Banner", "Banner", "{8AAAB249-F2CA-4E88-8F14-57BEE6064409}"
 EndProject
@@ -83,6 +91,14 @@ Global
 		{706CC38F-1A5C-4E57-A941-2578ACD3F85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{706CC38F-1A5C-4E57-A941-2578ACD3F85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{706CC38F-1A5C-4E57-A941-2578ACD3F85B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59AE276A-E55B-442E-84AF-FEB2BFD11BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59AE276A-E55B-442E-84AF-FEB2BFD11BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59AE276A-E55B-442E-84AF-FEB2BFD11BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59AE276A-E55B-442E-84AF-FEB2BFD11BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59CDE0A3-3949-4805-9C22-A0A2D123F3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59CDE0A3-3949-4805-9C22-A0A2D123F3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59CDE0A3-3949-4805-9C22-A0A2D123F3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59CDE0A3-3949-4805-9C22-A0A2D123F3BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -101,6 +117,10 @@ Global
 		{8C82B12A-1052-4738-A451-9352AA8E7DEB} = {17DD5718-6E13-4F2C-9738-B410396D4552}
 		{190AA5D6-0547-4850-9D0F-7A966288851F} = {64872AFF-2ACB-4F12-B6AB-E5E56E20297A}
 		{706CC38F-1A5C-4E57-A941-2578ACD3F85B} = {8C82B12A-1052-4738-A451-9352AA8E7DEB}
+		{F8B601B5-2D0A-4950-86CD-051FE4540857} = {17DD5718-6E13-4F2C-9738-B410396D4552}
+		{E3D31132-28BD-49AD-B35B-39EC17CC70DF} = {17DD5718-6E13-4F2C-9738-B410396D4552}
+		{59AE276A-E55B-442E-84AF-FEB2BFD11BAA} = {F8B601B5-2D0A-4950-86CD-051FE4540857}
+		{59CDE0A3-3949-4805-9C22-A0A2D123F3BB} = {E3D31132-28BD-49AD-B35B-39EC17CC70DF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Caching.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.ServiceBus.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Configuration.6.0.1304.0\lib\NET45
