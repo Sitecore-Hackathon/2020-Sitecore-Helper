@@ -1,0 +1,18 @@
+﻿---
+ID: "70e47c91-c6d4-4df3-8e36-231f29476371"
+Parent: "d7fec3de-ea16-44dc-b500-cabffc56eb00"
+Template: "f86fe270-00a4-492f-bfaf-5bf27e40ce13"
+Path: /sitecore/content/Hackathon/Sandbox/Sites/Hackathon2020/Settings/Datasource Configurations
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T114647Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ajoshi

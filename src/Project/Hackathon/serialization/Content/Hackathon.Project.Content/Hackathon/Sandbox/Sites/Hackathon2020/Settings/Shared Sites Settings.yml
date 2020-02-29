@@ -1,0 +1,18 @@
+﻿---
+ID: "c70e8bc2-c2c1-4d1c-bff5-75462a4eeb86"
+Parent: "d7fec3de-ea16-44dc-b500-cabffc56eb00"
+Template: "18d0bd79-7da4-4c2a-a924-b93a2b99d669"
+Path: /sitecore/content/Hackathon/Sandbox/Sites/Hackathon2020/Settings/Shared Sites Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T114650Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ajoshi

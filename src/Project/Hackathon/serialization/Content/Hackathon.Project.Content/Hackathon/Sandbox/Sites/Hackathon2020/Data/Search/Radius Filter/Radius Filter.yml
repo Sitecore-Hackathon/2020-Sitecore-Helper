@@ -1,0 +1,22 @@
+﻿---
+ID: "27af8af9-7081-4ac3-a674-71fc3ca4b378"
+Parent: "ab6a2733-2748-4c31-af9d-19bfcf06a3c2"
+Template: "de3fa58e-ef9d-4544-9f77-dcd1dbb05b64"
+Path: /sitecore/content/Hackathon/Sandbox/Sites/Hackathon2020/Data/Search/Radius Filter/Radius Filter
+DB: master
+SharedFields:
+- ID: "ae5d211a-4ff1-4e9e-ba0f-9442b0abca91"
+  Hint: Facet
+  Value: "{AF282C1C-EE46-4B11-BFA6-ED8C136AD2EB}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T114755Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ajoshi

@@ -1,0 +1,18 @@
+﻿---
+ID: "9f1f60c3-b925-4331-9b79-e803facb642c"
+Parent: "aecf5942-a4b7-4d68-8fc8-92ae1dab961f"
+Template: "a13a1b91-fd2b-494b-9086-008852175b0a"
+Path: /sitecore/content/Hackathon/Sandbox/Sites/Hackathon2020/Data/Carousels
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T114701Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ajoshi

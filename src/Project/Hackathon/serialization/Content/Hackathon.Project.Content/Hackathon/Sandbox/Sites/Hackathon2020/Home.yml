@@ -1,0 +1,29 @@
+﻿---
+ID: "cf6c6ec9-a58d-4944-aab1-ecbdde297b4d"
+Parent: "d1f77c4c-d2c5-4c23-812d-fd8ee7b8308b"
+Template: "94b64abb-f303-4a0e-be8a-6f1c390ded61"
+Path: /sitecore/content/Hackathon/Sandbox/Sites/Hackathon2020/Home
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{92EB9EFB-88D4-4089-82BE-AAD92D4FA24E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T114645Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Hackathon2020
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ajoshi
+    - ID: "f7943183-4068-41f3-8d20-7f1f172899d5"
+      Hint: Title
+      Value: Hackathon2020

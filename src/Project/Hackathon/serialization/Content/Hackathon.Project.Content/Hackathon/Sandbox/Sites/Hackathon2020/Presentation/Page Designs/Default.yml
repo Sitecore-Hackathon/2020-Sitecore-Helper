@@ -1,0 +1,22 @@
+﻿---
+ID: "c0d58908-8109-4c30-a534-4d2fa2c36135"
+Parent: "8dcda974-c9c9-480f-aec1-3516a42bc3e4"
+Template: "edf70823-d59c-4b75-83bc-d30a08211ba8"
+Path: /sitecore/content/Hackathon/Sandbox/Sites/Hackathon2020/Presentation/Page Designs/Default
+DB: master
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{E6CE2EE5-708E-4BF0-B7C0-CD5FBF0B1D23}|{3BEC4684-5BB7-4DFD-9CAE-C6D69631C769}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T114756Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ajoshi
