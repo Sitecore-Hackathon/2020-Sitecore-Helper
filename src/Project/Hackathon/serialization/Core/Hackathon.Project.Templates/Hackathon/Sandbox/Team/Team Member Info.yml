@@ -1,0 +1,18 @@
+﻿---
+ID: "4010b3de-0eaa-4398-8b1a-1b949762d31a"
+Parent: "d962a41c-0041-48be-a81a-9753fc7ccef1"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Hackathon/Sandbox/Team/Team Member Info
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T220301Z

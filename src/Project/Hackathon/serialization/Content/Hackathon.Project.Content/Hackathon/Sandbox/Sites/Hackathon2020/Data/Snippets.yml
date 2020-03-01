@@ -1,0 +1,18 @@
+﻿---
+ID: "04890ddc-8929-4d68-827c-bece814b7441"
+Parent: "aecf5942-a4b7-4d68-8fc8-92ae1dab961f"
+Template: "e854b5b7-510c-4b65-97f7-d483a9b54398"
+Path: /sitecore/content/Hackathon/Sandbox/Sites/Hackathon2020/Data/Snippets
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T114702Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ajoshi

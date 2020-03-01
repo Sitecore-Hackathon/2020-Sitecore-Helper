@@ -1,0 +1,24 @@
+﻿---
+ID: "736b9441-f903-48f7-a978-9c38ee86ce10"
+Parent: "cf6c6ec9-a58d-4944-aab1-ecbdde297b4d"
+Template: "26549235-410e-42d9-80b6-64f1c78bbaf5"
+Path: /sitecore/content/Hackathon/Sandbox/Sites/Hackathon2020/Home/About US
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T200518Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AboutUS
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "f7943183-4068-41f3-8d20-7f1f172899d5"
+      Hint: Title
+      Value: AboutUS

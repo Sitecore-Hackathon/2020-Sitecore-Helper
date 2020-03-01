@@ -1,0 +1,47 @@
+﻿---
+ID: "3bb8a6eb-7a4c-447f-bb06-e75d7c47ef2c"
+Parent: "cf6c6ec9-a58d-4944-aab1-ecbdde297b4d"
+Template: "26549235-410e-42d9-80b6-64f1c78bbaf5"
+Path: /sitecore/content/Hackathon/Sandbox/Sites/Hackathon2020/Home/Winning Teams
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+            s:l="{8DA1FB26-73A2-40A2-8B83-0F169263A0C4}">
+            <r
+              uid="{4F8DDE62-B432-4237-A3D6-8BCEE78254A4}"
+              p:before="*"
+              s:id="{A273AD23-944A-4FC0-9818-1A77FB8598C0}"
+              s:par=""
+              s:ph="ph-Top" />
+            <r
+              uid="{4D88A33A-5B5F-4CE5-9F24-ECD89E8E4A9D}"
+              p:after="*[1=2]"
+              s:id="{0F5515EB-1AA4-43C1-BF01-AB5A4B5A21FB}"
+              s:par=""
+              s:ph="ph-Bottom" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T195551Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Winning Teams
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "f7943183-4068-41f3-8d20-7f1f172899d5"
+      Hint: Title
+      Value: Winning Teams

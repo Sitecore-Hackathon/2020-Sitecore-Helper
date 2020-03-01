@@ -1,0 +1,18 @@
+﻿---
+ID: "3f7cb675-7a21-4406-b5f7-4b836e381af3"
+Parent: "26549235-410e-42d9-80b6-64f1c78bbaf5"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Hackathon/Sandbox/Page/Content
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T113857Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ajoshi

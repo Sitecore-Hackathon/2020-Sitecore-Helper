@@ -1,0 +1,23 @@
+﻿---
+ID: "51ce95a4-6cb2-42d9-a96e-e9e40c412e8b"
+Parent: "965c579a-153a-4e1c-9a7b-7af585e5c1bb"
+Template: "7dd9ece5-9461-498d-8721-7cbea8111b5e"
+Path: /sitecore/content/Hackathon/Sandbox/Sites/Hackathon2020/Data/POIs/My Location POI
+DB: master
+BranchID: "58a9b55e-88b8-49a3-918b-99f3b6534c95"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{1EAE825C-8C4C-4491-AF83-2B51835865CA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T114710Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ajoshi

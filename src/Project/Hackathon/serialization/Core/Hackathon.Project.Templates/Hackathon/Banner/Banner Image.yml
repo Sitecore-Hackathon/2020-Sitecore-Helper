@@ -1,0 +1,22 @@
+﻿---
+ID: "6b24a470-eb9a-46bb-bbbb-53fc92113c41"
+Parent: "c84c97d3-9cbf-4df2-8369-18ec1c1dc318"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Hackathon/Banner/Banner Image
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: office/32x32/slider.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: "{5A1B678A-F710-417B-B556-106C5A758E01}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T203350Z
